@@ -1,3 +1,5 @@
 # Dependency directories
 node_modules/
-src/**.js
+src/**.ts
+.git
+.gitignore

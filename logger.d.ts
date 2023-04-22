@@ -46,4 +46,3 @@ export declare enum LogType {
     WARNING = 2,
     DEBUG = 3
 }
-//# sourceMappingURL=logger.app.d.ts.map
