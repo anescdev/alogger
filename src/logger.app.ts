@@ -1,7 +1,7 @@
 /**
  * Clase principal del logger, es muy simple pero funcional.
  */
-export class Logger {
+export default class Logger {
     //Establecemos el patrón del mensaje, reseteando el estilo del texto al final con el código ANSI 0 
     private preset: string = `[%s] [%s] [%s] %s\x1b[0m`;
     //Nombre o contexto del logger
