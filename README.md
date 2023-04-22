@@ -10,7 +10,7 @@ A basic logger(for now) where show colors in the logs depending of the level.
 ## Create a logger
 
 ```js
-const exampleLogger = new Logger("ExampleName");
+const exampleLogger = new Logger("ExampleLogger");
 ```
 
 ## Log with INFO level
