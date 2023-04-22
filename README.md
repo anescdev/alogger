@@ -2,30 +2,47 @@
 
 A basic logger(for now) where show colors in the logs depending of the level.
 
+<br>
+
 # Guide
 
 
 ## Create a logger
+
 ```js
 const exampleLogger = new Logger("ExampleName");
 ```
-## Create a logger
+
+## Log with INFO level
+
 ```js
-const exampleLogger = new Logger("ExampleName");
+exampleLogger.info("Info type log");
 ```
-## Create a logger
+
+## Log with ERROR level
+
 ```js
-const exampleLogger = new Logger("ExampleName");
+exampleLogger.error("Error type log");
 ```
-## Create a logger
+
+## Log with LOG level
+
 ```js
-const exampleLogger = new Logger("ExampleName");
+exampleLogger.log("Log type log");
 ```
-## Create a logger
+
+## Log with WARNING level
+
 ```js
-const exampleLogger = new Logger("ExampleName");
+exampleLogger.warning("Warning type log");
 ```
-## Create a logger
+
+## Log with DEBUG level
+
 ```js
-const exampleLogger = new Logger("ExampleName");
+exampleLogger.debug("Warning type  log");
 ```
+
+# Results
+
+![Results](results.png)
