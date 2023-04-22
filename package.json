@@ -1,5 +1,5 @@
 {
-  "name": "js-basiclogger",
+  "name": "yeieslogger",
   "version": "0.1.0",
   "description": "A basic logger(for now) where show colors in the logs depending of the level.",
   "main": "./src/logger.js",
