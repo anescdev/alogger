@@ -1,6 +1,6 @@
 {
   "name": "yeieslogger",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A basic logger(for now) where show colors in the logs depending of the level.",
   "main": "./src/logger.js",
   "types": "./logger.d.ts",
@@ -19,5 +19,17 @@
   "homepage": "https://github.com/anescdev/alogger#readme",
   "devDependencies": {
     "@types/node": "^18.15.13"
-  }
+  },
+  "keywords": [
+    "jslogger",
+    "logger",
+    "logs",
+    "loggerjs",
+    "node-logger",
+    "node",
+    "console",
+    "terminal",
+    "bash",
+    "sh"
+  ]
 }
